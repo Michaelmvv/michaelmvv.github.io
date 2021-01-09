@@ -2,3 +2,5 @@
 theme: jekyll-theme-cayman
 title: Michael Maddy
 description: [A website for CSE 110]
+kramdown:
+    auto_ids: true
