@@ -1,3 +1,4 @@
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 title: Michael Maddy
 description: [A website for CSE 110]
