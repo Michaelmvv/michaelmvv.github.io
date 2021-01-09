@@ -37,7 +37,7 @@ We are building rovers to go to **Mars**. See more [here](https://yonderdynamics
 
 ### CSE 110
 This webpage!
-Also see here [foobar](readme.md)
+Also see here [foobar](newpage.md)
 
 ---
 ###### On lemons

@@ -2,5 +2,9 @@
 theme: jekyll-theme-cayman
 title: Michael Maddy
 description: [A website for CSE 110]
+
+#Show link to repo
+github:
+    is_project_page: true
 kramdown:
     auto_ids: true
