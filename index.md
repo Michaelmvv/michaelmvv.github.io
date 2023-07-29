@@ -1,6 +1,5 @@
 # Who Am I?
 *Well, I am me!*
-
 I have a Bachelor’s degree in Computer Engineering from the University of California: San Diego and am currently getting my masters degree.
 ---
 # Projects
