@@ -1,6 +1,6 @@
 # Who Am I?
 I'm a student! I have a Bachelor’s degree in Computer Engineering from the University of California: San Diego and am currently getting my masters degree.
----
+
 # Projects
 ### Yonder Dynamics
 Member of UCSD’s University Rover Competition team. Lead rover’s networking as a member of the electrical engineering team. Set up an onboard DNS and DHCP server to simplify communication between IP devices. Implemented low latency video streaming using v4l2, Gstreamer, WebRTC, and Janus-Gateway on a Jetson Nano embedded development board. See more [here](https://yonderdynamics.org/#/)
