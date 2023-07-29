@@ -2,11 +2,6 @@
 *Well, I am me!*
 
 I have a Bachelor’s degree in Computer Engineering from the University of California: San Diego and am currently getting my masters degree.
-
-Here is a photo:
-
-![my face](images/face.png)
-
 ---
 # Projects
 ### Yonder Dynamics
@@ -29,6 +24,7 @@ CSE 148: Modified a MIPS CPU to have more pipeline stages, implemented register 
 Implement a Internet Protocol router in C in a Mininet environment. Implemented minimum viable ARP and ICMP messages. Also implemented sender and receiver with sliding window and re-transmission.
 
 ---
+
 #### Operating systems I have confidence in using
  - Windows
  - MacOS
@@ -38,3 +34,9 @@ Implement a Internet Protocol router in C in a Mininet environment. Implemented 
 - [x]  [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 - [x]  [Rasbery Pi](https://www.raspberrypi.org/)
 - [x]  [Arduino](https://www.arduino.cc/)
+
+---
+
+Here is a photo:
+
+![my face](images/face.png)
