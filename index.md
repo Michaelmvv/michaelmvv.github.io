@@ -5,16 +5,6 @@ Here is a photo:
 
 ![my face](images/face.png)
 
-#### Operating systems I have confidence in using
- - Windows
- - MacOS
- - Ubuntu
-
-#### Hardware I have used
-- [x]  [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
-- [x]  [Rasbery Pi](https://www.raspberrypi.org/)
-- [x]  [Arduino](https://www.arduino.cc/)
-
 ---
 # Projects
 ### Yonder Dynamics
@@ -35,3 +25,14 @@ CSE 148: Modified a MIPS CPU to have more pipeline stages, implemented register 
 
 ### Networking Class Projects
 Implement a Internet Protocol router in C in a Mininet environment. Implemented minimum viable ARP and ICMP messages. Also implemented sender and receiver with sliding window and re-transmission.
+
+---
+#### Operating systems I have confidence in using
+ - Windows
+ - MacOS
+ - Ubuntu
+
+#### Hardware I have used
+- [x]  [Jetson Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+- [x]  [Rasbery Pi](https://www.raspberrypi.org/)
+- [x]  [Arduino](https://www.arduino.cc/)
